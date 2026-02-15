@@ -2,7 +2,7 @@
 Im a self taught developer, teaching myself a little bit more one project at a time.
 
 <p>
-  <img src="https://github.com/willn-dev/willn-dev/dino.gif">
+  <img src="https://github.com/willn-dev/willn-dev/blob/main/dino.gif
 </p>
 
 
