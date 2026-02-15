@@ -18,7 +18,7 @@ Currently, my educational focuses are:
   <img src="https://skillicons.dev/icons?i=python,c,flask,git,html,css,linux,sqlite,vscode,md" />
 </p>
 
-## To Learn:
+## Working on Learning:
 <p>
 Here are the things I would like to either become more comfortable with before adding to my stack, or things I will learn from scratch:
 
@@ -36,7 +36,14 @@ Here are the things I would like to either become more comfortable with before a
 </p>
 
 <br><br><br>
-
 <p align="center">
-  <img src="https://github.com/willn-dev/willn-dev/blob/main/dino.gif">
+  <img src="https://github.com/willn-dev/willn-dev/blob/main/mariodev.gif">
 </p>
+
+# Want to collaborate?
+Wether you are greener than me, or very experienced, id be happy to work on any project with you as I would like to get experience collaborating on projects.
+Let me know by submitting an issue here, and we can exchange info! 
+<div align="center"> 
+  <a href="https://github.com/willn-dev/willn-dev/issues">
+    <img src="https://img.shields.io/badge/willndev-issues-blue?logo=github">
+  </a>
