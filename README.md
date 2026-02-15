@@ -1,13 +1,6 @@
 # Hello! Im Will.
 Im a self taught developer, teaching myself a little bit more one project at a time.
 
-<p>
-  <img src="https://github.com/willn-dev/willn-dev/blob/main/dino.gif">
-</p>
-
-
-
-
 Currently, my educational focuses are:
 * Python Development
 * Full Stack Web
@@ -39,3 +32,8 @@ Here are the things I would like to either become more comfortable with before a
      <img src="https://skillicons.dev/icons?i=pytorch,qt,selenium,tauri,tensorflow,">
 </p>
 
+<br><br><br>
+
+<p align="center">
+  <img src="https://github.com/willn-dev/willn-dev/blob/main/dino.gif">
+</p>
