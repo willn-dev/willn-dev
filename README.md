@@ -1,4 +1,7 @@
-# Hello! Im Will.
+<h1>
+  Hello! Im Will. 
+  <img src="https://github.com/willn-dev/willn-dev/blob/main/molecule.gif" with=50, height=50, alt="molecule gif">
+</h1> 
 Im a self taught developer, teaching myself a little bit more one project at a time.
 
 Currently, my educational focuses are:
@@ -9,7 +12,7 @@ Currently, my educational focuses are:
 * Networking
 * Automation
 
-## My Current Stack
+## Techs I Use:
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,flask,git,html,css,linux,sqlite,vscode,md" />
