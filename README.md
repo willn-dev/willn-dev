@@ -35,6 +35,13 @@ Here are the things I would like to either become more comfortable with before a
      <img src="https://skillicons.dev/icons?i=pytorch,qt,selenium,tauri,tensorflow,">
 </p>
 
+## Stats:
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willn-dev&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willn-dev&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=willn-dev&theme=github_dark&utcOffset=8)
+
+
 <br><br><br>
 <p align="center">
   <img src="https://github.com/willn-dev/willn-dev/blob/main/mariodev.gif">
