@@ -12,5 +12,5 @@ Currently, my educational focuses are:
 ## My Current Stack
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,git,html,css,linux,sqlite,vscode,md" />
+  <img src="https://skillicons.dev/icons?i=python,c,flask,git,html,css,linux,sqlite,vscode,md" />
 </p>
