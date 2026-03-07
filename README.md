@@ -32,7 +32,7 @@ Here are the things I would like to either become more comfortable with before a
    <img src="https://skillicons.dev/icons?i=lua,matlab,mongodb,mysql,neovim,p5js,php,postgres,postman,pytorch,">
 </p>
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=qt,selenium,tauri,tensorflow,">
+     <img src="https://skillicons.dev/icons?i=qt,selenium,tauri,tensorflow,dart,flutter">
 </p>
 
 ## Stats:
