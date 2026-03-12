@@ -15,7 +15,7 @@ Currently, my educational focuses are:
 ## Techs I Use:
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,flask,git,html,css,linux,sqlite,opencv,vscode,md" />
+  <img src="https://skillicons.dev/icons?i=python,c,dart,flask,git,html,css,linux,sqlite,opencv,vscode,md" />
 </p>
 
 ## Working on Learning:
@@ -32,7 +32,7 @@ Here are the things I would like to either become more comfortable with before a
    <img src="https://skillicons.dev/icons?i=lua,matlab,mongodb,mysql,neovim,p5js,php,postgres,postman,pytorch,">
 </p>
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=qt,selenium,tauri,tensorflow,dart,flutter">
+     <img src="https://skillicons.dev/icons?i=qt,selenium,tauri,tensorflow,flutter">
 </p>
 
 ## Stats:
