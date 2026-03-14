@@ -8,7 +8,7 @@ Currently, my educational focuses are:
 * Python Development
 * Full Stack Web
 * DSA
-* JavaScript
+* Dart/Flutter
 * Networking
 * Automation
 
