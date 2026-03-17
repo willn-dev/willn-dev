@@ -48,7 +48,7 @@ Here are the things I would like to either become more comfortable with before a
 </p>
 
 # Want to collaborate?
-Wether you are greener than me, or very experienced, id be happy to work on any project with you as I would like to get experience collaborating on projects.
+Wether you are greener than me, or very experienced, id be happy to work on any project with you as I would like to get experience collaborating on projects. Open to request to fix issues in your projects. 
 Let me know by submitting an issue here, and we can exchange info! 
 <div align="center"> 
   <a href="https://github.com/willn-dev/willn-dev/issues">
