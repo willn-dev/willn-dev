@@ -8,14 +8,13 @@ Currently, my educational focuses are:
 * Python Development
 * Full Stack Web
 * DSA
-* Dart/Flutter
 * Networking
 * Automation
 
 ## Techs I Use:
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,dart,flask,git,html,css,linux,sqlite,opencv,vscode,md" />
+  <img src="https://skillicons.dev/icons?i=python,c,dart,flask,django,git,html,css,linux,sqlite,opencv,vscode,md" />
 </p>
 
 ## Working on Learning:
@@ -26,10 +25,10 @@ Here are the things I would like to either become more comfortable with before a
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bash,bun,cpp,docker,electron,fastapi,figma,go,kubernetes,">
+  <img src="https://skillicons.dev/icons?i=aws,bash,beautifulsoup,bun,cpp,docker,electron,fastapi,figma,go,kubernetes,">
 </p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=lua,matlab,mongodb,mysql,neovim,p5js,php,postgres,postman,pytorch,">
+   <img src="https://skillicons.dev/icons?i=lua,mongodb,mysql,neovim,p5js,php,postgres,postman,pytorch,">
 </p>
 <p align="center">
      <img src="https://skillicons.dev/icons?i=qt,selenium,tauri,tensorflow,flutter">
