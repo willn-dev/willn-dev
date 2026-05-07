@@ -25,7 +25,7 @@ Here are the things I would like to either become more comfortable with before a
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bash,beautifulsoup,bun,cpp,docker,electron,fastapi,figma,go,kubernetes,">
+  <img src="https://skillicons.dev/icons?i=aws,bash,bun,cpp,docker,electron,fastapi,figma,go,kubernetes,">
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=lua,mongodb,mysql,neovim,p5js,php,postgres,postman,pytorch,">
