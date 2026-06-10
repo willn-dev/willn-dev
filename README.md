@@ -14,9 +14,11 @@ Currently, my educational focuses are:
 ## Techs I Use:
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,dart,docker,js,flask,django,git,html,css,linux,sqlite,opencv,vscode,md" />
+  <img src="https://skillicons.dev/icons?i=python,c,dart,js,docker,flask,django"/>
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,html,css,linux,sqlite,opencv,vscode,md" />
+</p>
 ## Working on Learning:
 <p>
 Here are the things I would like to either become more comfortable with before adding to my stack, or things I will learn from scratch:
