@@ -14,7 +14,7 @@ Currently, my educational focuses are:
 ## Techs I Use:
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,dart,docker,flask,django,git,html,css,linux,sqlite,opencv,vscode,md" />
+  <img src="https://skillicons.dev/icons?i=python,c,dart,docker,js,flask,django,git,html,css,linux,sqlite,opencv,vscode,md" />
 </p>
 
 ## Working on Learning:
