@@ -4,8 +4,10 @@
 </h1> 
 Im a self taught developer, teaching myself a little bit more one project at a time.
 
+My repos, for the most part, are learning projects. Sort from newest to oldest, as the farther back you go the worse the code will be... >:0
+
 Currently, my educational focuses are:
-* Python Development
+* Python & JS Development
 * Full Stack Web
 * DSA
 * Networking
