@@ -8,6 +8,8 @@ My repos, for the most part, are learning projects. Sort from newest to oldest, 
 
 Currently, my educational focuses are:
 * Python & JS Development
+* Creative Coding
+* Physics Simulations 
 * Full Stack Web
 * DSA
 * Networking
