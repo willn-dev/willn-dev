@@ -2,7 +2,7 @@
   Hello! Im Will. 
   <img src="https://github.com/willn-dev/willn-dev/blob/main/molecule.gif" with=50, height=50, alt="molecule gif">
 </h1> 
-Personal Site (in progress) : https://www.willn-dev.github.io
+Personal Site (in progress) : https://www.willn-dev.github.io <br>
 Im a self taught developer, teaching myself a little bit more one project at a time.
 
 My repos, for the most part, are learning projects. Sort from newest to oldest, as the farther back you go the worse the code will be... >:0
